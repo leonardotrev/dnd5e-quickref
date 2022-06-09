@@ -10,14 +10,17 @@ This project was forked from https://github.com/crobi/dnd5e-quickref and remodel
 
 # Demo
 
-## Editable version: 
+## Copied from:
 https://matheusgabg.github.io/dnd5e-quickref/
+
+## Editable version: 
+https://leonardotrev.github.io/dnd5e-quickref/
 
 ## Static versions (no edit functionalities):
 ### DnD5e:
-https://matheusgabg.github.io/dnd5e-quickref/?preset=dnd5e
+https://leonardotrev.github.io/dnd5e-quickref/?preset=dnd5e
 ### Tormenta20 (Portuguese):
-https://matheusgabg.github.io/dnd5e-quickref/?preset=t20
+https://leonardotrev.github.io/dnd5e-quickref/?preset=t20
 
 
 # Quick Start
@@ -33,7 +36,7 @@ There is a section at the bottom of the page that will allow you to view and edi
 
 ## Static 
 You can view a static version the website by adding URL arguments (without editing buttons/functionalities). You can use this with your own created presets with *{url}?preset={myPresetHere}*.
-Example: https://matheusgabg.github.io/dnd5e-quickref/?preset=dnd5e
+Example: https://leonardotrev.github.io/dnd5e-quickref/?preset=dnd5e
 
 
 
